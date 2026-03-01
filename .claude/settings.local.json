@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(cd \"/c/Users/Bill Li/Documents/Github/hsk\" && npm create vite@latest . -- --template react-ts --yes 2>&1)",
+      "Bash(cd \"/c/Users/Bill Li/Documents/Github/hsk\" && echo \"y\" | npx create-vite@latest . --template react-ts 2>&1)",
+      "Bash(cd \"/c/Users/Bill Li/Documents/Github/hsk\" && npm install react react-dom && npm install -D vite @vitejs/plugin-react @tailwindcss/vite tailwindcss typescript @types/react @types/react-dom 2>&1)",
+      "WebFetch(domain:api.github.com)",
+      "WebSearch",
+      "Bash(curl -s \"https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/master/complete.json\" -o /tmp/hsk-complete.json && wc -c /tmp/hsk-complete.json && head -c 800 /tmp/hsk-complete.json 2>&1)",
+      "Bash(cd \"/c/Users/Bill Li/Documents/Github/hsk\" && npm run build 2>&1)",
+      "Bash(cd:*)",
+      "Bash(cd \"/c/Users/Bill Li/Documents/Github/hsk\" && npm run dev 2>&1)",
+      "Bash(curl:*)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}

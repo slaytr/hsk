@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "hsk2_0001",
+    "character": "吧",
+    "pinyin": "bā / ba / biā",
+    "meaning": "bar (loanword) (serving drinks, or providing Internet access etc); to puff (on a pipe etc); (onom.) bang / (modal particle indicating suggestion or surmise); ...right?; ...OK? / (onom.) smack!",
+    "level": 2,
+    "frequencyRank": 470
+  },
+  {
+    "id": "hsk2_0002",
+    "character": "白",
+    "pinyin": "bái",
+    "meaning": "white; snowy; pure",
+    "level": 2,
+    "frequencyRank": 286
+  },
+  {
+    "id": "hsk2_0003",
+    "character": "百",
+    "pinyin": "bǎi",
+    "meaning": "hundred; numerous; all kinds of",
+    "level": 2,
+    "frequencyRank": 407
+  },
+  {
+    "id": "hsk2_0004",
+    "character": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "assistance; aid; to help; to assist",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0005",
+    "character": "报纸",
+    "pinyin": "bào zhǐ",
+    "meaning": "newspaper; newsprint; CL:份[fen4],期[qi1],張|张[zhang1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0006",
+    "character": "比",
+    "pinyin": "bǐ / bī",
+    "meaning": "Belgium; Belgian; abbr. for 比利時|比利时[Bi3 li4 shi2] / euphemistic variant of 屄[bi1] / to compare; (followed by a noun and adjective) more {adj.} than {noun}; ratio",
+    "level": 2,
+    "frequencyRank": 199
+  },
+  {
+    "id": "hsk2_0007",
+    "character": "便宜",
+    "pinyin": "biàn yí / pián yi",
+    "meaning": "convenient / cheap; inexpensive; a petty advantage; to let sb off lightly",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0008",
+    "character": "别",
+    "pinyin": "bié / biè",
+    "meaning": "to leave; to part (from); (literary) to differentiate; to distinguish; (dialect) to turn away; to turn aside; to avert (one's face, gaze etc) / to make sb change their ways, opinions etc",
+    "level": 2,
+    "frequencyRank": 222
+  },
+  {
+    "id": "hsk2_0009",
+    "character": "唱歌",
+    "pinyin": "chàng gē",
+    "meaning": "to sing a song",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0010",
+    "character": "出",
+    "pinyin": "chū",
+    "meaning": "to go out; to come out; to arise; to occur; to produce; to yield",
+    "level": 2,
+    "frequencyRank": 28
+  },
+  {
+    "id": "hsk2_0011",
+    "character": "穿",
+    "pinyin": "chuān",
+    "meaning": "to wear; to put on; to dress",
+    "level": 2,
+    "frequencyRank": 785
+  },
+  {
+    "id": "hsk2_0012",
+    "character": "船",
+    "pinyin": "chuán",
+    "meaning": "boat; vessel; ship",
+    "level": 2,
+    "frequencyRank": 614
+  },
+  {
+    "id": "hsk2_0013",
+    "character": "次",
+    "pinyin": "cì",
+    "meaning": "next in sequence; second; the second (day, time etc)",
+    "level": 2,
+    "frequencyRank": 183
+  },
+  {
+    "id": "hsk2_0014",
+    "character": "从",
+    "pinyin": "cóng",
+    "meaning": "from; through; via; (bound form) to follow; (bound form) to obey",
+    "level": 2,
+    "frequencyRank": 98
+  },
+  {
+    "id": "hsk2_0015",
+    "character": "错",
+    "pinyin": "cuò",
+    "meaning": "mistake; wrong; bad",
+    "level": 2,
+    "frequencyRank": 638
+  },
+  {
+    "id": "hsk2_0016",
+    "character": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "meaning": "to play basketball",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0017",
+    "character": "大家",
+    "pinyin": "dà jiā",
+    "meaning": "everyone; influential family; great expert",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0018",
+    "character": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "but; however",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0019",
+    "character": "到",
+    "pinyin": "dào",
+    "meaning": "to reach; to arrive; to leave for; to go to; to (a place); until (a time); up to (a point)",
+    "level": 2,
+    "frequencyRank": 22
+  },
+  {
+    "id": "hsk2_0020",
+    "character": "得",
+    "pinyin": "dé / dè / de / děi",
+    "meaning": "to obtain; to get; to gain / used in 得瑟[de4 se5] / structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc / to have to; must; ought to",
+    "level": 2,
+    "frequencyRank": 39
+  },
+  {
+    "id": "hsk2_0021",
+    "character": "弟弟",
+    "pinyin": "dì di",
+    "meaning": "younger brother; CL:個|个[ge4],位[wei4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0022",
+    "character": "第一",
+    "pinyin": "dì yī",
+    "meaning": "first; most important; primary; foremost",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0023",
+    "character": "懂",
+    "pinyin": "dǒng",
+    "meaning": "to understand; to comprehend",
+    "level": 2,
+    "frequencyRank": 1211
+  },
+  {
+    "id": "hsk2_0024",
+    "character": "房间",
+    "pinyin": "fáng jiān",
+    "meaning": "room; CL:間|间[jian1],個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0025",
+    "character": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "very; really; unusual; extraordinary",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0026",
+    "character": "服务员",
+    "pinyin": "fú wù yuán",
+    "meaning": "waiter; waitress; attendant",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0027",
+    "character": "高",
+    "pinyin": "gāo",
+    "meaning": "high; tall; above average",
+    "level": 2,
+    "frequencyRank": 134
+  },
+  {
+    "id": "hsk2_0028",
+    "character": "告诉",
+    "pinyin": "gào sù / gào su",
+    "meaning": "to press charges; to file a complaint / to tell; to inform; to let know",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0029",
+    "character": "哥哥",
+    "pinyin": "gē ge",
+    "meaning": "older brother; CL:個|个[ge4],位[wei4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0030",
+    "character": "给",
+    "pinyin": "gěi / jǐ",
+    "meaning": "to; for; for the benefit of / to supply; to provide",
+    "level": 2,
+    "frequencyRank": 180
+  },
+  {
+    "id": "hsk2_0031",
+    "character": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "meaning": "bus; CL:輛|辆[liang4],班[ban1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0032",
+    "character": "公斤",
+    "pinyin": "gōng jīn",
+    "meaning": "kilogram (kg)",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0033",
+    "character": "公司",
+    "pinyin": "gōng sī",
+    "meaning": "company; firm; corporation; CL:家[jia1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0034",
+    "character": "贵",
+    "pinyin": "guì",
+    "meaning": "abbr. for Guizhou Province 貴州|贵州[Gui4 zhou1] / expensive; (bound form) highly valued; precious; (bound form) noble; of high rank",
+    "level": 2,
+    "frequencyRank": 873
+  },
+  {
+    "id": "hsk2_0035",
+    "character": "还",
+    "pinyin": "huán / hái",
+    "meaning": "still; still in progress; still more / to pay back; to return",
+    "level": 2,
+    "frequencyRank": 80
+  },
+  {
+    "id": "hsk2_0036",
+    "character": "孩子",
+    "pinyin": "hái zi",
+    "meaning": "child",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0037",
+    "character": "好吃",
+    "pinyin": "hǎo chī / hào chī",
+    "meaning": "tasty; delicious / to be fond of eating; to be gluttonous",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0038",
+    "character": "号",
+    "pinyin": "háo / hào",
+    "meaning": "roar; cry; CL:個|个[ge4] / ordinal number; day of a month; mark",
+    "level": 2,
+    "frequencyRank": 487
+  },
+  {
+    "id": "hsk2_0039",
+    "character": "黑",
+    "pinyin": "hēi",
+    "meaning": "abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] / black; dark; sinister",
+    "level": 2,
+    "frequencyRank": 519
+  },
+  {
+    "id": "hsk2_0040",
+    "character": "红",
+    "pinyin": "hóng / gōng",
+    "meaning": "used in 女紅|女红[nu : 3 gong1] / red; popular; revolutionary",
+    "level": 2,
+    "frequencyRank": 502
+  },
+  {
+    "id": "hsk2_0041",
+    "character": "欢迎",
+    "pinyin": "huān yíng",
+    "meaning": "to welcome; welcome",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0042",
+    "character": "回答",
+    "pinyin": "huí dá",
+    "meaning": "to reply; to answer; reply; answer",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0043",
+    "character": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship; CL:家[jia1],處|处[chu4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0044",
+    "character": "鸡蛋",
+    "pinyin": "jī dàn",
+    "meaning": "(chicken) egg; hen's egg; CL:個|个[ge4],打[da2]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0045",
+    "character": "件",
+    "pinyin": "jiàn",
+    "meaning": "item; component; classifier for events, things, clothes etc",
+    "level": 2,
+    "frequencyRank": 250
+  },
+  {
+    "id": "hsk2_0046",
+    "character": "教室",
+    "pinyin": "jiào shì",
+    "meaning": "classroom; CL:間|间[jian1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0047",
+    "character": "介绍",
+    "pinyin": "jiè shào",
+    "meaning": "to introduce (sb to sb); to give a presentation; to present (sb for a job etc)",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0048",
+    "character": "姐姐",
+    "pinyin": "jiě jie",
+    "meaning": "older sister; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0049",
+    "character": "近",
+    "pinyin": "jìn",
+    "meaning": "near; close to; approximately",
+    "level": 2,
+    "frequencyRank": 374
+  },
+  {
+    "id": "hsk2_0050",
+    "character": "进",
+    "pinyin": "jìn",
+    "meaning": "to go forward; to advance; to go in",
+    "level": 2,
+    "frequencyRank": 81
+  },
+  {
+    "id": "hsk2_0051",
+    "character": "就",
+    "pinyin": "jiù",
+    "meaning": "(after a suppositional clause) in that case; then; (after a clause of action) as soon as; immediately after; (same as 就是[jiu4 shi4]) merely; nothing else but; simply; just; precisely; exactly",
+    "level": 2,
+    "frequencyRank": 27
+  },
+  {
+    "id": "hsk2_0052",
+    "character": "觉得",
+    "pinyin": "jué de",
+    "meaning": "to think that ...; to feel that ...; to feel (uncomfortable etc)",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0053",
+    "character": "咖啡",
+    "pinyin": "kā fēi",
+    "meaning": "(loanword) coffee; CL:杯[bei1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0054",
+    "character": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "to begin; beginning; to start",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0055",
+    "character": "考试",
+    "pinyin": "kǎo shì",
+    "meaning": "to take an exam; exam; CL:次[ci4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0056",
+    "character": "可能",
+    "pinyin": "kě néng",
+    "meaning": "might (happen); possible; probable",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0057",
+    "character": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "can; may; possible",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0058",
+    "character": "课",
+    "pinyin": "kè",
+    "meaning": "subject; course; CL:門|门[men2]",
+    "level": 2,
+    "frequencyRank": 1208
+  },
+  {
+    "id": "hsk2_0059",
+    "character": "快",
+    "pinyin": "kuài",
+    "meaning": "rapid; quick; speed",
+    "level": 2,
+    "frequencyRank": 366
+  },
+  {
+    "id": "hsk2_0060",
+    "character": "快乐",
+    "pinyin": "kuài lè",
+    "meaning": "happy; joyful",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0061",
+    "character": "累",
+    "pinyin": "lěi / lèi / léi",
+    "meaning": "to accumulate; to involve or implicate (Taiwan pr. [lei4]); continuous / tired; weary; to strain / rope; to bind together; to twist around",
+    "level": 2,
+    "frequencyRank": 1323
+  },
+  {
+    "id": "hsk2_0062",
+    "character": "离",
+    "pinyin": "chī / lí",
+    "meaning": "mythical beast (archaic) / to leave; to part from; to be away from",
+    "level": 2,
+    "frequencyRank": 418
+  },
+  {
+    "id": "hsk2_0063",
+    "character": "两",
+    "pinyin": "liǎng",
+    "meaning": "two; both; some",
+    "level": 2,
+    "frequencyRank": 133
+  },
+  {
+    "id": "hsk2_0064",
+    "character": "路",
+    "pinyin": "lù",
+    "meaning": "road (CL:條|条[tiao2]); journey; route",
+    "level": 2,
+    "frequencyRank": 305
+  },
+  {
+    "id": "hsk2_0065",
+    "character": "旅游",
+    "pinyin": "lǔ: yóu",
+    "meaning": "trip; journey; tourism",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0066",
+    "character": "卖",
+    "pinyin": "mài",
+    "meaning": "to sell; to betray; to spare no effort",
+    "level": 2,
+    "frequencyRank": 974
+  },
+  {
+    "id": "hsk2_0067",
+    "character": "慢",
+    "pinyin": "màn",
+    "meaning": "slow",
+    "level": 2,
+    "frequencyRank": 822
+  },
+  {
+    "id": "hsk2_0068",
+    "character": "忙",
+    "pinyin": "máng",
+    "meaning": "busy; hurriedly; to hurry",
+    "level": 2,
+    "frequencyRank": 827
+  },
+  {
+    "id": "hsk2_0069",
+    "character": "每",
+    "pinyin": "měi",
+    "meaning": "each; every",
+    "level": 2,
+    "frequencyRank": 359
+  },
+  {
+    "id": "hsk2_0070",
+    "character": "妹妹",
+    "pinyin": "mèi mei",
+    "meaning": "younger sister; young woman; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0071",
+    "character": "门",
+    "pinyin": "mén",
+    "meaning": "gate; door; CL:扇[shan4]",
+    "level": 2,
+    "frequencyRank": 185
+  },
+  {
+    "id": "hsk2_0072",
+    "character": "男人",
+    "pinyin": "nán rén",
+    "meaning": "a man; a male; men",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0073",
+    "character": "您",
+    "pinyin": "nín",
+    "meaning": "you (courteous, as opposed to informal 你[ni3])",
+    "level": 2,
+    "frequencyRank": 726
+  },
+  {
+    "id": "hsk2_0074",
+    "character": "牛奶",
+    "pinyin": "niú nǎi",
+    "meaning": "cow's milk; CL:瓶[ping2],杯[bei1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0075",
+    "character": "女人",
+    "pinyin": "nǔ: rén / nǔ: ren",
+    "meaning": "woman / wife",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0076",
+    "character": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "side; adjacent place",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0077",
+    "character": "跑步",
+    "pinyin": "pǎo bù",
+    "meaning": "to run; to jog; (military) to march at the double",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0078",
+    "character": "票",
+    "pinyin": "piào",
+    "meaning": "ticket; ballot; banknote",
+    "level": 2,
+    "frequencyRank": 910
+  },
+  {
+    "id": "hsk2_0079",
+    "character": "妻子",
+    "pinyin": "qī zǐ / qī zi",
+    "meaning": "wife and children / wife",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0080",
+    "character": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning": "to get out of bed; to get up",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0081",
+    "character": "千",
+    "pinyin": "qiān",
+    "meaning": "thousand / used in 鞦韆|秋千[qiu1 qian1]",
+    "level": 2,
+    "frequencyRank": 599
+  },
+  {
+    "id": "hsk2_0082",
+    "character": "晴",
+    "pinyin": "qíng",
+    "meaning": "clear; fine (weather)",
+    "level": 2,
+    "frequencyRank": 1968
+  },
+  {
+    "id": "hsk2_0083",
+    "character": "去年",
+    "pinyin": "qù nián",
+    "meaning": "last year",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0084",
+    "character": "让",
+    "pinyin": "ràng",
+    "meaning": "to yield; to permit; to let sb do sth",
+    "level": 2,
+    "frequencyRank": 339
+  },
+  {
+    "id": "hsk2_0085",
+    "character": "上班",
+    "pinyin": "shàng bān",
+    "meaning": "to go to work; to be on duty; to start work",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0086",
+    "character": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "the body; one's health",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0087",
+    "character": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "to fall ill",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0088",
+    "character": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "birthday; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0089",
+    "character": "时间",
+    "pinyin": "shí jiān",
+    "meaning": "(concept of) time; (duration of) time; (point in) time",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0090",
+    "character": "事情",
+    "pinyin": "shì qing",
+    "meaning": "affair; matter; thing; business; CL:件[jian4],樁|桩[zhuang1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0091",
+    "character": "手表",
+    "pinyin": "shǒu biǎo",
+    "meaning": "wristwatch; CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0092",
+    "character": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "cell phone; mobile phone; CL:部[bu4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0093",
+    "character": "送",
+    "pinyin": "sòng",
+    "meaning": "to send; to deliver; to transmit; to give (as a present); to see (sb) off",
+    "level": 2,
+    "frequencyRank": 656
+  },
+  {
+    "id": "hsk2_0094",
+    "character": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "therefore; as a result; so",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0095",
+    "character": "它",
+    "pinyin": "tā",
+    "meaning": "it / it (pronoun for an animal)",
+    "level": 2,
+    "frequencyRank": 107
+  },
+  {
+    "id": "hsk2_0096",
+    "character": "踢",
+    "pinyin": "tī",
+    "meaning": "to kick; to play (e.g. soccer); (slang) butch (in a lesbian relationship)",
+    "level": 2,
+    "frequencyRank": 2444
+  },
+  {
+    "id": "hsk2_0097",
+    "character": "题",
+    "pinyin": "tí",
+    "meaning": "topic; problem for discussion; exam question",
+    "level": 2,
+    "frequencyRank": 218
+  },
+  {
+    "id": "hsk2_0098",
+    "character": "跳舞",
+    "pinyin": "tiào wǔ",
+    "meaning": "to dance",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0099",
+    "character": "外",
+    "pinyin": "wài",
+    "meaning": "outside; in addition; foreign",
+    "level": 2,
+    "frequencyRank": 131
+  },
+  {
+    "id": "hsk2_0100",
+    "character": "完",
+    "pinyin": "wán",
+    "meaning": "to finish; to be over; whole",
+    "level": 2,
+    "frequencyRank": 301
+  },
+  {
+    "id": "hsk2_0101",
+    "character": "玩",
+    "pinyin": "wán",
+    "meaning": "to play; to have fun; to trifle with / Taiwan pr. [wan4]",
+    "level": 2,
+    "frequencyRank": 1072
+  },
+  {
+    "id": "hsk2_0102",
+    "character": "晚上",
+    "pinyin": "wǎn shang",
+    "meaning": "evening; night; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0103",
+    "character": "为",
+    "pinyin": "wéi / wèi",
+    "meaning": "as (in the capacity of); to take sth as; to act as / because of; for; to",
+    "level": 2,
+    "frequencyRank": 18
+  },
+  {
+    "id": "hsk2_0104",
+    "character": "问",
+    "pinyin": "wèn",
+    "meaning": "to ask; to inquire",
+    "level": 2,
+    "frequencyRank": 137
+  },
+  {
+    "id": "hsk2_0105",
+    "character": "问题",
+    "pinyin": "wèn tí",
+    "meaning": "question; problem; issue",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0106",
+    "character": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "to hope; a hope; a wish (CL:個|个[ge4])",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0107",
+    "character": "洗",
+    "pinyin": "xǐ / xiǎn",
+    "meaning": "to wash; to bathe; to develop (photographs); to shuffle (cards etc) / used in 洗馬|洗马[xian3 ma3]",
+    "level": 2,
+    "frequencyRank": 1247
+  },
+  {
+    "id": "hsk2_0108",
+    "character": "西瓜",
+    "pinyin": "xī guā",
+    "meaning": "watermelon; CL:顆|颗[ke1],個|个[ge5]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0109",
+    "character": "向",
+    "pinyin": "xiàng",
+    "meaning": "towards; to face; to turn towards / to tend toward; to guide / direction; orientation; to face",
+    "level": 2,
+    "frequencyRank": 146
+  },
+  {
+    "id": "hsk2_0110",
+    "character": "小时",
+    "pinyin": "xiǎo shí",
+    "meaning": "hour; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0111",
+    "character": "笑",
+    "pinyin": "xiào",
+    "meaning": "old variant of 笑[xiao4] / to laugh; to smile; to laugh at",
+    "level": 2,
+    "frequencyRank": 346
+  },
+  {
+    "id": "hsk2_0112",
+    "character": "新",
+    "pinyin": "xīn",
+    "meaning": "abbr. for Xinjiang 新疆[Xin1 jiang1]; abbr. for Singapore 新加坡[Xin1 jia1 po1] / new; newly; meso- (chemistry)",
+    "level": 2,
+    "frequencyRank": 161
+  },
+  {
+    "id": "hsk2_0113",
+    "character": "姓",
+    "pinyin": "xìng",
+    "meaning": "family name; surname; to be surnamed ...",
+    "level": 2,
+    "frequencyRank": 1149
+  },
+  {
+    "id": "hsk2_0114",
+    "character": "休息",
+    "pinyin": "xiū xi",
+    "meaning": "rest; to rest",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0115",
+    "character": "雪",
+    "pinyin": "xuě",
+    "meaning": "snow; CL:場|场[chang2]; (literary) to wipe away (a humiliation etc)",
+    "level": 2,
+    "frequencyRank": 1003
+  },
+  {
+    "id": "hsk2_0116",
+    "character": "颜色",
+    "pinyin": "yán sè",
+    "meaning": "color; countenance; appearance",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0117",
+    "character": "眼睛",
+    "pinyin": "yǎn jing",
+    "meaning": "eye; CL:隻|只[zhi1],雙|双[shuang1]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0118",
+    "character": "羊肉",
+    "pinyin": "yáng ròu",
+    "meaning": "mutton; goat meat",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0119",
+    "character": "药",
+    "pinyin": "yào",
+    "meaning": "leaf of the iris / medicine; drug; substance used for a specific purpose (e.g. poisoning, explosion, fermenting)",
+    "level": 2,
+    "frequencyRank": 662
+  },
+  {
+    "id": "hsk2_0120",
+    "character": "要",
+    "pinyin": "yāo / yào",
+    "meaning": "(bound form) to demand; to coerce / to want; to need; to ask for; will; shall; about to; need to; should",
+    "level": 2,
+    "frequencyRank": 26
+  },
+  {
+    "id": "hsk2_0121",
+    "character": "也",
+    "pinyin": "yě",
+    "meaning": "also; too; as well; (not ...) either; (used after a verbal or nominal expression X to indicate that X is an extreme or unexpected case) even (X); (literary) particle having functions similar to 啊[a5]",
+    "level": 2,
+    "frequencyRank": 31
+  },
+  {
+    "id": "hsk2_0122",
+    "character": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "(in) the same place; together; in company (with); altogether; in total",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0123",
+    "character": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "already",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0124",
+    "character": "意思",
+    "pinyin": "yì si",
+    "meaning": "idea; opinion; meaning",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0125",
+    "character": "因为",
+    "pinyin": "yīn wèi",
+    "meaning": "because; owing to; on account of",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0126",
+    "character": "阴",
+    "pinyin": "yīn",
+    "meaning": "overcast (weather); cloudy; shady",
+    "level": 2,
+    "frequencyRank": 987
+  },
+  {
+    "id": "hsk2_0127",
+    "character": "游泳",
+    "pinyin": "yóu yǒng",
+    "meaning": "swimming; to swim",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0128",
+    "character": "右边",
+    "pinyin": "yòu bian",
+    "meaning": "right side; right, to the right",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0129",
+    "character": "鱼",
+    "pinyin": "yú",
+    "meaning": "fish (CL:條|条[tiao2],尾[wei3]); used in the names of various aquatic animals that are not fish (including abalone 鮑魚|鲍鱼[bao4 yu2], alligators and crocodiles 鱷魚|鳄鱼[e4 yu2] and octopi 章魚|章鱼[zhang1 yu2])",
+    "level": 2,
+    "frequencyRank": 852
+  },
+  {
+    "id": "hsk2_0130",
+    "character": "元",
+    "pinyin": "yuán",
+    "meaning": "Yuan dynasty (1279–1368) / currency unit (esp. Chinese yuan); (bound form) first; original; primary; (bound form) basic; fundamental",
+    "level": 2,
+    "frequencyRank": 370
+  },
+  {
+    "id": "hsk2_0131",
+    "character": "远",
+    "pinyin": "yuǎn / yuàn",
+    "meaning": "far; distant; remote / to distance oneself from (classical)",
+    "level": 2,
+    "frequencyRank": 386
+  },
+  {
+    "id": "hsk2_0132",
+    "character": "运动",
+    "pinyin": "yùn dòng",
+    "meaning": "to move; to exercise; sports",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0133",
+    "character": "再",
+    "pinyin": "zài",
+    "meaning": "again; once more; re-; further; beyond this point of time; (before an adjective) more",
+    "level": 2,
+    "frequencyRank": 242
+  },
+  {
+    "id": "hsk2_0134",
+    "character": "早上",
+    "pinyin": "zǎo shang",
+    "meaning": "early morning; CL:個|个[ge4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0135",
+    "character": "张",
+    "pinyin": "zhāng",
+    "meaning": "to open up; to spread; sheet of paper",
+    "level": 2,
+    "frequencyRank": 318
+  },
+  {
+    "id": "hsk2_0136",
+    "character": "长",
+    "pinyin": "cháng / zhǎng",
+    "meaning": "long; (bound form) length; (bound form) strong point; forte / chief; head; elder",
+    "level": 2,
+    "frequencyRank": 109
+  },
+  {
+    "id": "hsk2_0137",
+    "character": "丈夫",
+    "pinyin": "zhàng fu",
+    "meaning": "husband",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0138",
+    "character": "找",
+    "pinyin": "zhǎo",
+    "meaning": "to try to find; to look for; to call on sb",
+    "level": 2,
+    "frequencyRank": 466
+  },
+  {
+    "id": "hsk2_0139",
+    "character": "着",
+    "pinyin": "zhāo / zháo / zhe / zhuó",
+    "meaning": "a move in chess (Taiwan pr. [zhuo2]); trick; tactic; (dialect) okay; all right / to touch; to come in contact with; to feel / aspect particle indicating action in progress or ongoing state / to wear (clothes); to contact; to use",
+    "level": 2,
+    "frequencyRank": 41
+  },
+  {
+    "id": "hsk2_0140",
+    "character": "真",
+    "pinyin": "zhēn",
+    "meaning": "really; truly; indeed",
+    "level": 2,
+    "frequencyRank": 204
+  },
+  {
+    "id": "hsk2_0141",
+    "character": "正在",
+    "pinyin": "zhèng zài",
+    "meaning": "to be in the process of (doing sth); to be currently ...-ing",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0142",
+    "character": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "to know; to become aware of; also pr. [zhi1dao5]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0143",
+    "character": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "preparation; to prepare; to intend",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0144",
+    "character": "自行车",
+    "pinyin": "zì xíng chē",
+    "meaning": "bicycle; bike; CL:輛|辆[liang4]",
+    "level": 2
+  },
+  {
+    "id": "hsk2_0145",
+    "character": "走",
+    "pinyin": "zǒu",
+    "meaning": "to walk; to go; to run",
+    "level": 2,
+    "frequencyRank": 207
+  },
+  {
+    "id": "hsk2_0146",
+    "character": "最",
+    "pinyin": "zuì",
+    "meaning": "old variant of 最[zui4] / (before an adjective or verb) to the highest degree; (the) most ...; -est; (after 之[zhi1]) best or most extreme example (e.g. 世界之最[shi4 jie4 zhi1 zui4] \"the greatest in the world\")",
+    "level": 2,
+    "frequencyRank": 139
+  },
+  {
+    "id": "hsk2_0147",
+    "character": "左边",
+    "pinyin": "zuǒ bian",
+    "meaning": "left; the left side; to the left of",
+    "level": 2
+  }
+]
