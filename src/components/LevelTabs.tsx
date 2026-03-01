@@ -10,7 +10,7 @@ interface LevelTabsProps {
 
 export function LevelTabs({ activeLevel, onSelectLevel, stats }: LevelTabsProps) {
   return (
-    <div className="flex gap-1 overflow-x-auto pb-1">
+    <div className="flex gap-1 overflow-x-auto pb-1 snap-x snap-mandatory scroll-smooth [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
       {ALL_LEVELS.map(level => {
         const stat = stats.find(s => s.level === level)!
         const isActive = level === activeLevel
@@ -19,7 +19,7 @@ export function LevelTabs({ activeLevel, onSelectLevel, stats }: LevelTabsProps)
             key={level}
             onClick={() => onSelectLevel(level)}
             className={`
-              flex-shrink-0 px-4 py-3 rounded-xl text-sm font-medium transition-all min-w-[90px]
+              snap-start flex-shrink-0 px-4 py-3 rounded-xl text-sm font-medium transition-all min-w-[90px]
               ${isActive
                 ? 'bg-blue-600 text-white shadow-md'
                 : 'bg-white text-gray-600 border border-gray-200 hover:border-blue-300 hover:text-blue-600'

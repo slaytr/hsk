@@ -68,8 +68,8 @@ export default function App() {
     <div className="min-h-screen bg-gray-50">
 
       {/* Sticky top header */}
-      <div className="sticky top-0 z-10 bg-gray-50 px-4 pt-6 pb-4 shadow-sm">
-        <div className="max-w-7xl mx-auto grid grid-cols-[2fr_1fr] gap-4 items-start">
+      <div className="sticky top-0 z-10 bg-gray-50 px-4 pt-4 sm:pt-6 pb-4 shadow-sm">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-[2fr_1fr] gap-4 items-start">
           <div className="space-y-4">
             <StatsBar stats={levelStats} />
             <LevelTabs
@@ -78,11 +78,13 @@ export default function App() {
               stats={levelStats}
             />
           </div>
-          <CharacterDetail
-            entry={selectedEntry}
-            isLearned={selectedEntry ? learnedIds.has(selectedEntry.id) : false}
-            onToggle={toggleLearned}
-          />
+          <div className="hidden sm:block">
+            <CharacterDetail
+              entry={selectedEntry}
+              isLearned={selectedEntry ? learnedIds.has(selectedEntry.id) : false}
+              onToggle={toggleLearned}
+            />
+          </div>
         </div>
       </div>
 
